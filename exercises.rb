@@ -17,9 +17,9 @@ fav_movies = {
   :"Fight Club" => "1998"
 }
 cities = {
-  :toronto => "2 million",
-  :austin => "700 thousand",
-  :salt_lake_city => "100 thousand"
+  :toronto => 2000000,
+  :austin => 700000,
+  :salt_lake_city => 100000
 }
 
 puts coin_flip
@@ -29,7 +29,7 @@ friend_ages << 0
 puts fav_movies[:the_matrix]
 
 puts fav_colors[-1]
-cities[:houston] = "1 million"
+cities[:houston] = 1000000
 coin_flip.reverse
 puts cities[:houston]
 
@@ -63,4 +63,14 @@ puts coin_flip.count('heads')
 
 artists.delete("Baby Metal")
 
-cities[:salt_lake_city] = "150 thousand"
+cities[:salt_lake_city] = 150000
+
+
+puts fav_colors[3..4]
+
+friend_ages.map do |age|
+  puts age + 1
+end
+
+fav_colors << ["pink", "blue"]
+puts fav_colors

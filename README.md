@@ -1,14 +1,16 @@
 
-    -Print out all of the ages of your friends  that are less than 30 (or any number where some ages will not be printed!).
+    1. Find the sum total of the population in the hash of cities.
 
-    -Find and output the age of the oldest person in your friends array.
-
-    -Count how many times you flipped 'heads' using the coin flips array.
-
-    coin_flip = ['heads', 'tails', 'tails', 'heads', 'tails']
-
+    2. Using your hash containing the names of your friends with their ages, print out one of two messages for each depending on their age. For example:
+        Martha is old.
+        Stewart is young.
+        Holly is young.
 
 
-    -You realize one of the performing artists in your list is no longer a favourite. Remove one of them from the array.
 
-    -Pick a city in your city population hash and change its population.
+
+    3. Print out the last two colours in your array of favourite colours.
+
+    4. Increase by 1 the age of everyone in your array of ages. Print it out.
+
+    5. Add two new colours to your array of favourite colours.
