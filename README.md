@@ -1,11 +1,14 @@
 
-    -Print out the array of coin flips.
-    -Print out the first element of the array -of your favourite colours.
+    -Print out all of the ages of your friends  that are less than 30 (or any number where some ages will not be printed!).
 
-    -Output the sorted version of the array of your friends and family members' ages.
+    -Find and output the age of the oldest person in your friends array.
 
-    -Add a new baby (0 years old) to the array of your family's ages.
+    -Count how many times you flipped 'heads' using the coin flips array.
 
-    -Using the hash of movie information, access and print the year of one of the movies.
+    coin_flip = ['heads', 'tails', 'tails', 'heads', 'tails']
 
-If you haven't done so recently, now would be a good time to check that your code works and commit once it does.
+
+
+    -You realize one of the performing artists in your list is no longer a favourite. Remove one of them from the array.
+
+    -Pick a city in your city population hash and change its population.
